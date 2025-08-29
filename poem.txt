@@ -3,5 +3,6 @@ REgnue
 blå
 grøn 
 lilla
+Rød
 
 Farvene på regnbuen
